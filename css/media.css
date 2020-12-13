@@ -1,0 +1,153 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .menu ul li a {
+    text-align: right;
+    padding: 0 0px !important;
+  }
+  .s_text h1 {
+    margin-bottom: 15px;
+    font-size: 26px;
+  }
+  .s_text p {
+    margin-bottom: 15px;
+    font-size: 15px;
+    letter-spacing: 0;
+    word-spacing: 0;
+    line-height: 22px;
+  }
+  .slider {
+    padding-bottom: 80px;
+  }
+  .s_icon {
+    font-size: 35px;
+    text-align: center;
+  }
+  .cid {
+    margin-bottom: -50px;
+  }
+  .s_text {
+    margin-top: 0px;
+    text-align: center;
+  }
+  .s_text h2 {
+    text-align: center;
+    /* features */
+  }
+  .f_h1 {
+    margin-top: 70px;
+    font-size: 26px;
+  }
+  .features {
+    padding-bottom: 20px;
+  }
+  .f_h1 {
+    font-size: 26px;
+    margin-top: 50px;
+  }
+  .f_p {
+    font-size: 18px;
+  }
+  .features {
+    padding-bottom: 60px;
+  }
+  .si_text p {
+    word-spacing: 0px;
+    text-align: center;
+  }
+  .si_icon img {
+    margin-left: 0;
+    margin-right: 20px;
+    margin-bottom: 10px;
+  }
+  .si_text h2 {
+    margin-bottom: 15px;
+    font-size: 22px;
+    font-weight: 400;
+    color: #010101;
+    text-align: center;
+  }
+  .f_p_70 {
+    margin-top: 40px !important;
+  }
+  footer {
+    text-align: center;
+    margin-bottom: 60px;
+  }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .f_h1 {
+    font-size: 28px;
+    margin-top: 70px;
+  }
+  .f_p {
+    font-size: 20px;
+  }
+  .features {
+    padding-bottom: 80px;
+  }
+  .si_text p {
+    word-spacing: 0px;
+  }
+  .si_icon img {
+    margin-left: 0;
+    margin-right: 50px;
+    margin-bottom: 10px;
+  }
+  .f_p_70 {
+    margin-top: 50px !important;
+  }
+  footer {
+    text-align: center;
+    margin-bottom: 80px;
+  }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .menu ul li a {
+    text-align: ;
+  }
+  .s_img img {
+    width: 100%;
+  }
+  .si_icon {
+    text-align: center;
+    margin-right: 90px;
+  }
+  .si_icon img {
+    margin-left: 0px;
+  }
+  .si_text p {
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    text-align: center;
+  }
+  .si_text h2 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .features {
+    padding-bottom: 80px;
+  }
+  .f_p_70 {
+    margin-top: 25px;
+    margin-bottom: 45px;
+  }
+  .p_70 {
+    margin-bottom: 60px;
+  }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+}
+/* Extra Extra large devices (Extra large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+}
